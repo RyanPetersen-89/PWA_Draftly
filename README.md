@@ -21,7 +21,7 @@ There are two ways to install the JATE text editor on your device.
 
 Option #1: Deployed Application
 
-1. Click on this ([Link]()) to access the deployed application.
+1. Click on this ([To Be ADDED](*******)) to access the deployed application.
 
 2. Once you're in the application, click on the "Install" button.
 
@@ -48,3 +48,4 @@ Option #2: GitHub Repository
 8. Access the app directly from your device's home screen or application menu.
 
 ## Usage
+......Need to continue to update after turning in project......
